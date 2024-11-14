@@ -6,5 +6,8 @@ pyQT5로 간단히 GUI를 만들어서 meloTTS를 테스트해본 코드입니�
 
 
 테스트해 결과는 아래 영상에서 확인하세요.
+
+
+
 https://youtu.be/xfDU24stn20?si=QungBeEhWEFqEYog
 
