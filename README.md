@@ -8,7 +8,7 @@ MeloTTS 설치방법은 아래 포스트를 참고하시구 본 저장소의 코
 
 TTS 라이브러리 MeloTTS로 한국어 음성 합성해보기
 
-https://webnautes.tistory.com/2356
+https://webnautes00.blogspot.com/2025/12/tts-melotts.html
 
 <br><br>
 
